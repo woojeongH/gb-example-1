@@ -1,8 +1,8 @@
+import ExForm from "./Templates/ExForm";
+
 
 const ExFormPage = () => {
-  return <>
-    <main>form page</main>
-  </>
+  return <ExForm></ExForm>
 }
 
 export default ExFormPage;

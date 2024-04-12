@@ -6,7 +6,6 @@ const Navigation = () => {
   return <nav>
     <NavButtonContainer>
       {navigations.map(row => <NavButton to={row.to}>{row.name}</NavButton>)}
-      
     </NavButtonContainer>
     
   </nav>

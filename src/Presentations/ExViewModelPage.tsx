@@ -1,8 +1,9 @@
+import ExViewModelTemplate from "./Templates/ExViewModel";
+
+
 
 const ExViewModelPage = () => {
-  return <>
-    <main>view model page</main>
-  </>
+  return <ExViewModelTemplate></ExViewModelTemplate>
 }
 
 export default ExViewModelPage;

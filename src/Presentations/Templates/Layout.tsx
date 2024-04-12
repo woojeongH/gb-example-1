@@ -1,5 +1,5 @@
 import Header from "@views/Organisms/Header"
-import Footer from "@views/Organisms/Footer";
+import Footer from "@/Presentations/Organisms/Footer";
 import Aside from "@views/Organisms/Aside";
 
 export interface LayoutProps {
